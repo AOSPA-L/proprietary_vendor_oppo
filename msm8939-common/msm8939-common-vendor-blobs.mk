@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/oppo/msm8939-common/proprietary/bin/sensor_work:system/bin/sensor_work \
     vendor/oppo/msm8939-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
-    vendor/oppo/msm8939-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/oppo/msm8939-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/oppo/msm8939-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/oppo/msm8939-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
@@ -354,7 +353,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
-    vendor/oppo/msm8939-common/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libulp2.so:system/vendor/lib64/libulp2.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libvcel.so:system/vendor/lib64/libvcel.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib64/libvendorconn.so:system/vendor/lib64/libvendorconn.so \
@@ -725,7 +723,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libSubSystemShutdown.so:system/vendor/lib/libSubSystemShutdown.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/oppo/msm8939-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \
     vendor/oppo/msm8939-common/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \

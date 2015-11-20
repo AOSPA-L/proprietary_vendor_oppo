@@ -19,8 +19,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
-    shutdownlistener \
-    TimeService
+    shutdownlistener
 
 PRODUCT_PACKAGES += \
     qcnvitems \
